@@ -19,3 +19,7 @@ pip install -r requirements.txt
 ```shell
 python -m flask --app main run
 ```
+
+## MCP test
+
+This line was added to verify the GitHub MCP pull request workflow.
